@@ -6,7 +6,7 @@
   "repository": "git://github.com/jehowell/node-m1xep.git",
   "author": "Jeff Howell",
   "dependencies": {
-    "serialport": "1.2.5",
+    "serialport": "1.2.5"
   },
   "devDependencies": {
   },
