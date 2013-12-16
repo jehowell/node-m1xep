@@ -1,0 +1,15 @@
+{
+  "name": "m1xep",
+  "version": "0.1.0",
+  "description": "Open source replacement for Elk M1XEP",
+  "keywords": [],
+  "repository": "git://github.com/jehowell/node-m1xep.git",
+  "author": "Jeff Howell",
+  "dependencies": {
+    "serialport": "1.2.5",
+  },
+  "devDependencies": {
+  },
+  "main": "index",
+  "engines": { "node": ">= 0.10.0" }
+}
